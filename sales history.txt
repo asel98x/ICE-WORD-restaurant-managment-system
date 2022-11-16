@@ -1,0 +1,30 @@
+F L A V O R                   :  vanila
+P R I C E                     :  Rs.70
+Q UA N T I T Y                :  X1
+D I S C O U N T               :  Rs.0.7
+T O T A L   B I L L           :  Rs.69.3
+C U S T O M E R   A M O U N T :  Rs.100
+B A L A N C E                 :  Rs.30
+Sat Oct 31 21:48:18 2020
+
+
+F L A V O R                   :  chocolate
+P R I C E                     :  Rs.100
+Q UA N T I T Y                :  X10
+D I S C O U N T               :  Rs.10
+T O T A L   B I L L           :  Rs.990
+C U S T O M E R   A M O U N T :  Rs.1000
+B A L A N C E                 :  Rs.10
+Sat Oct 31 21:49:32 2020
+
+
+F L A V O R                   :  strewberry
+P R I C E                     :  Rs.120
+Q UA N T I T Y                :  X25
+D I S C O U N T               :  Rs.150
+T O T A L   B I L L           :  Rs.2850
+C U S T O M E R   A M O U N T :  Rs.3000
+B A L A N C E                 :  Rs.150
+Sat Oct 31 21:50:24 2020
+
+
